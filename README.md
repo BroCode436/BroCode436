@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishchay Agarwal</h1>
-<h3 align="center">Developer | Linux Enthusiast | Tech Explorer</h3>
+<h3 align="center">
+Full-Stack Developer • Backend Learner • System Design (Learning) • Linux (Arch btw)
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BroCode436&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -8,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Web+Developer;Arch+Linux+User+(btw);Backend+Learner;Open+Source+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer;Backend+%26+System+Design+Learner;Spring+Boot+%7C+Node.js+%7C+Firebase;Linux+Power+User+(Arch);Building+Real+Projects+Every+Day" />
 </p>
 
 ---
@@ -16,27 +18,121 @@
 ## 🚀 About Me
 - 🎓 Student & self-taught developer  
 - 🐧 Daily driving **Arch Linux**
-- 💻 Interested in **Web Dev, Backend, Databases & Systems**
-- 🧠 Learning by **building real projects**
-- 🎯 Goal: **Cracked skills > certificates**
+- 💻 Focused on **Full-Stack Web & Backend Engineering**
+- 🧠 Learning **System Design, APIs & Databases**
+- 🔥 Linux-first workflow with GPU acceleration
+- 🎯 Goal: **Industry-ready engineering skills**
 
 ---
 
-## 🛠️ Tech Stack
-### 💻 Languages
+## 🧠 Tech Stack (Complete & Expanded)
+
+### 👨‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
-### ⚙️ Frameworks & Tools
+---
+
+### 🌐 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,firebase,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
-### 🧰 Dev & OS
+- Responsive UI  
+- Component-based architecture  
+- REST API consumption  
+
+---
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+</p>
+
+- RESTful APIs  
+- MVC architecture  
+- Authentication & CRUD systems  
+- Backend logic & services  
+
+---
+
+### 🔥 Full-Stack Development
+- Frontend ↔ Backend integration  
+- API-driven applications  
+- Authentication flows  
+- Database-connected apps  
+
+---
+
+### 🧠 System Design (Learning)
+- Scalable backend concepts  
+- Request/response lifecycle  
+- Database design basics  
+- Separation of concerns  
+
+---
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+</p>
+
+- Relational databases (MySQL)  
+- NoSQL / BaaS (Firebase)  
+
+---
+
+### 📱 App Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter" />
+</p>
+
+- Cross-platform mobile apps  
+- Firebase-backed apps  
+
+---
+
+### ☁️ Cloud & DevOps (Working With)
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions" />
+</p>
+
+- Docker (basic containerization)  
+- GitHub Actions (CI/CD exposure)  
+
+---
+
+### 🧰 Developer Tools & Workflow
 <p>
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
 </p>
+
+- Git & GitHub workflows  
+- Linux-first development  
+- VS Code power-user setup  
+
+---
+
+### 🐧 Linux Tooling & Environment
+- Flatpak  
+- Bottles  
+- Wine  
+- Native Linux gaming & apps  
+
+---
+
+### 🖥 Hardware / System
+- NVIDIA GPU  
+- Linux + NVIDIA drivers  
+- GPU-aware workflows  
+
+---
+
+### 🌍 Open Source
+- Using & exploring open-source tools  
+- Learning contribution workflows  
+- GitHub-centric development  
 
 ---
 
@@ -45,11 +141,8 @@
   <a href="https://github.com/BroCode436">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/nishchay-agarwal-303284312/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
@@ -77,25 +170,25 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BroCode436&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## ✍️ Dev Quote
+## ✍️ Developer Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
 
-## 📌 Featured Repositories
+## 📌 Featured Projects
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=BroCode436&repo=REPO_NAME&theme=tokyonight" />
 </p>
 
 ---
 
-⭐ **If you like my work, consider starring my repositories!**
+⭐ If you like my work, consider starring ⭐ my repositories!
